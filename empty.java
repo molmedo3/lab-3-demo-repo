@@ -1,1 +1,3 @@
+public main class empty{
+}
 
